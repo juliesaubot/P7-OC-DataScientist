@@ -12,7 +12,7 @@ Ce projet a donc pour but de déployer le modèle via une API (FAST API) dans le
 
 Le projet est composé en deux parties : 
 - La partie Dashboard qui correspond au repository : P7-OC-DataScientist-streamlit
-- La partie API qui correspond au repository : P7-OC-DataScientist-FASTAPIP7-OC-DataScientist-FASTAPI
+- La partie API qui correspond au repository : P7-OC-DataScientist-FASTAPI
 
 ### Données à disposition : 
 Le jeu de données mis à disposition est composé de plusieurs datasets :
